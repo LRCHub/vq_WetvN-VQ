@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Sail Out",
+  "base_artist": "TrySail",
+  "createdAt": "2025-12-05T15:13:09.861697Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sail Out",
+      "artist": "Trysail",
+      "has_synced": true,
+      "path": "select/01_Sail_Out_Trysail.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sail Out [instrumental]",
+      "artist": "TrySail",
+      "has_synced": true,
+      "path": "select/02_Sail_Out_[instrumental]_TrySail.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sail Out",
+      "artist": "TrySail",
+      "has_synced": true,
+      "path": "select/03_Sail_Out_TrySail.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Stay Ready (What A Life) - Jhene Aiko Feat. Kendrick Lamar - Sail Out EP",
+      "artist": "pingo0091",
+      "has_synced": false,
+      "path": "select/04_Stay_Ready_(What_A_Life)_-_Jhene_Aiko_Feat._Kendrick_Lamar_-_Sail_Out_EP_pingo0091.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sail Out [2017 Live Version]",
+      "artist": "TrySail",
+      "has_synced": true,
+      "path": "select/05_Sail_Out_[2017_Live_Version]_TrySail.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sail Out [instrumental]",
+      "artist": "TrySail",
+      "has_synced": true,
+      "path": "select/06_Sail_Out_[instrumental]_TrySail.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "出航さ! 〜Sail Out For Someone〜",
+      "artist": "E-girls",
+      "has_synced": true,
+      "path": "select/07_出航さ!_〜Sail_Out_For_Someone〜_E-girls.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sail Out",
+      "artist": "TrySail",
+      "has_synced": true,
+      "path": "select/08_Sail_Out_TrySail.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Watching the Moon Sail out of the East",
+      "artist": "Tusmørke",
+      "has_synced": false,
+      "path": "select/09_Watching_the_Moon_Sail_out_of_the_East_Tusmørke.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sail Out",
+      "artist": "TrySail (雨宮天、麻倉もも、夏川椎菜)",
+      "has_synced": true,
+      "path": "select/10_Sail_Out_TrySail_(雨宮天、麻倉もも、夏川椎菜).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sail Out",
+      "artist": "TrySail",
+      "has_synced": false,
+      "path": "select/pl_01_Sail_Out_TrySail.txt"
+    }
+  ]
+}
